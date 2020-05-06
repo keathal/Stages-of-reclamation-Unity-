@@ -361,6 +361,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8401668075405179588, guid: c792b8ea9f1713e4a9283d9960bd7a94,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8401668075405179588, guid: c792b8ea9f1713e4a9283d9960bd7a94,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8401668075405179588, guid: c792b8ea9f1713e4a9283d9960bd7a94,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8401668075405179589, guid: c792b8ea9f1713e4a9283d9960bd7a94,
         type: 3}
       propertyPath: m_BakeLightProbesForTrees
