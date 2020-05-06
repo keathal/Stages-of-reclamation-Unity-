@@ -309,9 +309,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 80.38452, y: -2561.2668, z: 6699.087}
+    m_Target: {x: 1651.8402, y: -40.834595, z: 3176.3362}
     speed: 2
-    m_Value: {x: 80.38452, y: -2561.2668, z: 6699.087}
+    m_Value: {x: 1651.8402, y: -40.834595, z: 3176.3362}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -357,20 +357,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.28812286, y: -0.14411938, z: 0.044367865, w: 0.9456787}
+    m_Target: {x: 0.37680808, y: 0.34479696, z: -0.15299165, w: 0.846046}
     speed: 2
-    m_Value: {x: 0.29184684, y: -0.2014926, z: 0.0635036, w: 0.9328416}
+    m_Value: {x: 0.37725225, y: 0.3422454, z: -0.15185526, w: 0.84704715}
   m_Size:
-    m_Target: 2861.8545
+    m_Target: 149.78465
     speed: 2
-    m_Value: 2738.6167
+    m_Value: 156.84258
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 1
-    m_SpeedNormalized: 0.52000046
+    m_Speed: 1.2
+    m_SpeedNormalized: 0.6100004
     m_SpeedMin: 0.01
     m_SpeedMax: 2
     m_EasingEnabled: 1
@@ -417,23 +417,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: d03b0000
+      m_SelectedIDs: 58370000
       m_LastClickedID: 0
-      m_ExpandedIDs: 70fbffff
+      m_ExpandedIDs: 3015ffffe41efffff0edffff70fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Water4Advanced
+        m_OriginalName: Water4Advanced
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -57628
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 8}
       m_SearchString: 
@@ -587,7 +587,7 @@ MonoBehaviour:
     height: 250
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
-    m_NameFilter: 
+    m_NameFilter: water
     m_ClassNames: []
     m_AssetLabels: []
     m_AssetBundleNames: []
@@ -599,34 +599,34 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Assets/AlignedGames/Polygonal Foliage Asset Package/Art/Models/Trees/Tree10
+    - Assets/Assets
   m_ViewMode: 1
   m_StartGridSize: 83
   m_LastFolders:
-  - Assets/Assets/AlignedGames/Polygonal Foliage Asset Package/Art/Models/Trees/Tree10
+  - Assets/Assets
   m_LastFoldersGridSize: 83
   m_LastProjectPath: "D:\\\u0423\u0447\u0435\u0431\u0430\\map\\New Unity Project"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 767}
-    m_SelectedIDs: 2a370000
-    m_LastClickedID: 14122
-    m_ExpandedIDs: 000000001a3600001c3600001e36000020360000223600002436000026360000283600002a3600002c3600002e36000030360000323600003436000036360000383600003a3600003c360000423600004636000016370000
+    scrollPos: {x: 0, y: 47}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 000000001a3600001c3600001e36000020360000223600002436000026360000283600002a3600002c3600002e360000303600003236000034360000383600003a3600003c3600003e36000058370000723700008a3700008e370000a4370000a6370000aa370000b2370000be370000c2370000c4370000ee370000f2370000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Scenes
+      m_OriginalName: Scenes
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 14158
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 10}
     m_SearchString: 
@@ -640,7 +640,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000001a3600001c3600001e36000020360000223600002436000026360000283600002a3600002c3600002e36000030360000323600003436000036360000383600003a3600003c360000
+    m_ExpandedIDs: 000000001a3600001c3600001e36000020360000223600002436000026360000283600002a3600002c3600002e36000030360000323600003436000036360000383600003a3600003c3600003e3600004036000042360000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
