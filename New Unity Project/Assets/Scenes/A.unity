@@ -361,6 +361,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8401668075405179589, guid: c792b8ea9f1713e4a9283d9960bd7a94,
+        type: 3}
+      propertyPath: m_BakeLightProbesForTrees
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8401668075405179589, guid: c792b8ea9f1713e4a9283d9960bd7a94,
+        type: 3}
+      propertyPath: m_DetailObjectDistance
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 8401668075405179589, guid: c792b8ea9f1713e4a9283d9960bd7a94,
+        type: 3}
+      propertyPath: m_TreeBillboardDistance
+      value: 2000
+      objectReference: {fileID: 0}
+    - target: {fileID: 8401668075405179589, guid: c792b8ea9f1713e4a9283d9960bd7a94,
+        type: 3}
+      propertyPath: m_TreeCrossFadeLength
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c792b8ea9f1713e4a9283d9960bd7a94, type: 3}
 --- !u!1 &1009400680
