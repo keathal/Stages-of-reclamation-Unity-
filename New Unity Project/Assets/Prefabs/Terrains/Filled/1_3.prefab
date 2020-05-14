@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+<<<<<<< HEAD:New Unity Project/Assets/Prefabs/Terrains/2_4.prefab
+--- !u!1 &2008082679418410583
+=======
+--- !u!1 &6425179184735429964
+>>>>>>> 4eed0d6e992e65d549e7f73d038a7e67acaffcb4:New Unity Project/Assets/Prefabs/Terrains/Filled/1_3.prefab
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+<<<<<<< HEAD:New Unity Project/Assets/Prefabs/Terrains/2_4.prefab
+  - component: {fileID: 5478047431322767363}
+  - component: {fileID: 877271800710411826}
+  - component: {fileID: 7480985520402330688}
+=======
+  - component: {fileID: 7216167769372129483}
+  - component: {fileID: 8533172573783671308}
+  - component: {fileID: 873443860002097294}
+>>>>>>> 4eed0d6e992e65d549e7f73d038a7e67acaffcb4:New Unity Project/Assets/Prefabs/Terrains/Filled/1_3.prefab
+  m_Layer: 0
+  m_Name: 1_3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+<<<<<<< HEAD:New Unity Project/Assets/Prefabs/Terrains/2_4.prefab
+--- !u!4 &5478047431322767363
+=======
+--- !u!4 &7216167769372129483
+>>>>>>> 4eed0d6e992e65d549e7f73d038a7e67acaffcb4:New Unity Project/Assets/Prefabs/Terrains/Filled/1_3.prefab
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD:New Unity Project/Assets/Prefabs/Terrains/2_4.prefab
+  m_GameObject: {fileID: 2008082679418410583}
+=======
+  m_GameObject: {fileID: 6425179184735429964}
+>>>>>>> 4eed0d6e992e65d549e7f73d038a7e67acaffcb4:New Unity Project/Assets/Prefabs/Terrains/Filled/1_3.prefab
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -68, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD:New Unity Project/Assets/Prefabs/Terrains/2_4.prefab
+--- !u!218 &877271800710411826
+=======
+--- !u!218 &8533172573783671308
+>>>>>>> 4eed0d6e992e65d549e7f73d038a7e67acaffcb4:New Unity Project/Assets/Prefabs/Terrains/Filled/1_3.prefab
+Terrain:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD:New Unity Project/Assets/Prefabs/Terrains/2_4.prefab
+  m_GameObject: {fileID: 2008082679418410583}
+  m_Enabled: 1
+  serializedVersion: 6
+  m_TerrainData: {fileID: 15600000, guid: 7397ad88b07031f429045bec0fd7044b, type: 2}
+=======
+  m_GameObject: {fileID: 6425179184735429964}
+  m_Enabled: 1
+  serializedVersion: 6
+  m_TerrainData: {fileID: 15600000, guid: ff8a34a8f7010374d9bdaac0bdd537ef, type: 2}
+>>>>>>> 4eed0d6e992e65d549e7f73d038a7e67acaffcb4:New Unity Project/Assets/Prefabs/Terrains/Filled/1_3.prefab
+  m_TreeDistance: 5000
+  m_TreeBillboardDistance: 2000
+  m_TreeCrossFadeLength: 200
+  m_TreeMaximumFullLODCount: 50
+  m_DetailObjectDistance: 80
+  m_DetailObjectDensity: 1
+  m_HeightmapPixelError: 5
+  m_SplatMapDistance: 1000
+  m_HeightmapMaximumLOD: 0
+  m_ShadowCastingMode: 2
+  m_DrawHeightmap: 1
+  m_DrawInstanced: 0
+  m_DrawTreesAndFoliage: 1
+  m_ReflectionProbeUsage: 1
+  m_MaterialTemplate: {fileID: 2100000, guid: 65fae04ac0ba49b429dc053c0f84524e, type: 2}
+  m_BakeLightProbesForTrees: 1
+  m_PreserveTreePrototypeLayers: 0
+  m_DeringLightProbesForTrees: 1
+  m_ScaleInLightmap: 0.0256
+  m_LightmapParameters: {fileID: 15203, guid: 0000000000000000f000000000000000, type: 0}
+  m_GroupingID: 0
+  m_RenderingLayerMask: 1
+  m_AllowAutoConnect: 1
+<<<<<<< HEAD:New Unity Project/Assets/Prefabs/Terrains/2_4.prefab
+--- !u!154 &7480985520402330688
+=======
+--- !u!154 &873443860002097294
+>>>>>>> 4eed0d6e992e65d549e7f73d038a7e67acaffcb4:New Unity Project/Assets/Prefabs/Terrains/Filled/1_3.prefab
+TerrainCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD:New Unity Project/Assets/Prefabs/Terrains/2_4.prefab
+  m_GameObject: {fileID: 2008082679418410583}
+  m_Material: {fileID: 0}
+  m_Enabled: 1
+  m_TerrainData: {fileID: 15600000, guid: 7397ad88b07031f429045bec0fd7044b, type: 2}
+=======
+  m_GameObject: {fileID: 6425179184735429964}
+  m_Material: {fileID: 0}
+  m_Enabled: 1
+  m_TerrainData: {fileID: 15600000, guid: ff8a34a8f7010374d9bdaac0bdd537ef, type: 2}
+>>>>>>> 4eed0d6e992e65d549e7f73d038a7e67acaffcb4:New Unity Project/Assets/Prefabs/Terrains/Filled/1_3.prefab
+  m_EnableTreeColliders: 1
