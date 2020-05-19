@@ -74,6 +74,7 @@
     <Compile Include="Assets\MeshBrush\Scripts\Classes\Utilities\TemplateMigrationUtility.cs" />
     <Compile Include="Assets\MeshBrush\Scripts\Classes\Utilities\VectorClampingUtility.cs" />
     <Compile Include="Assets\MeshBrush\Scripts\Enums\BrushMode.cs" />
+    <Compile Include="Assets\Scripts\TerrainScript.cs" />
     <None Include="Assets\MeshBrush\Templates\Examples\Test Asteroid Example.xml" />
     <None Include="Assets\Assets\AlignedGames\Polygonal Foliage Asset Package\Shaders\Cloud.shader" />
     <None Include="Assets\Assets\Water\Water4\Shaders\WaterInclude.cginc" />
