@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &2789574445706061005
+--- !u!1 &4082711862569261215
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,23 +8,23 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 775826340911796712}
-  - component: {fileID: 4876680468975960312}
-  - component: {fileID: 6108742978202401086}
+  - component: {fileID: 3134954291923378835}
+  - component: {fileID: 6980081601468851608}
+  - component: {fileID: 2390907827215753676}
   m_Layer: 0
   m_Name: 2_5
-  m_TagString: Untagged
+  m_TagString: Stage_1
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
   m_IsActive: 1
---- !u!4 &775826340911796712
+--- !u!4 &3134954291923378835
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2789574445706061005}
+  m_GameObject: {fileID: 4082711862569261215}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 1970, y: 0, z: 2050}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -32,13 +32,13 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!218 &4876680468975960312
+--- !u!218 &6980081601468851608
 Terrain:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2789574445706061005}
+  m_GameObject: {fileID: 4082711862569261215}
   m_Enabled: 1
   serializedVersion: 6
   m_TerrainData: {fileID: 15600000, guid: 4b0110d88db44bb4c873d858cc1b948a, type: 2}
@@ -65,13 +65,13 @@ Terrain:
   m_GroupingID: 0
   m_RenderingLayerMask: 1
   m_AllowAutoConnect: 1
---- !u!154 &6108742978202401086
+--- !u!154 &2390907827215753676
 TerrainCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2789574445706061005}
+  m_GameObject: {fileID: 4082711862569261215}
   m_Material: {fileID: 0}
   m_Enabled: 1
   m_TerrainData: {fileID: 15600000, guid: 4b0110d88db44bb4c873d858cc1b948a, type: 2}
