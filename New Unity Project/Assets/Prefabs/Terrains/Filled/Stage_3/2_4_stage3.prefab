@@ -4599,7 +4599,7 @@ GameObject:
   - component: {fileID: 5845542032750197567}
   m_Layer: 0
   m_Name: 2_4_stage3
-  m_TagString: Stage_2
+  m_TagString: Stage_3
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
