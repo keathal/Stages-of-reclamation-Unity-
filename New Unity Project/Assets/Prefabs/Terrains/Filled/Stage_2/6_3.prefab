@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 8561194078516304356}
   m_Layer: 0
   m_Name: 6_3
-  m_TagString: Stage_1
+  m_TagString: Stage_2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
