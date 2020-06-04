@@ -29,14 +29,19 @@ public class CameraScript : MonoBehaviour
         moveVector.y = Input.GetKey(KeyCode.Q) ? -1 : (Input.GetKey(KeyCode.E) ? 1 : 0);
         moveVector.z = Input.GetAxisRaw("Vertical");
         moveVector = transform.TransformVector(moveVector);
+        if (transform.position.y >= 800 && moveVector.y > 0)
+            moveVector.y = 0;
+        else if (transform.position.y <=100 && moveVector.y < 0)
+            moveVector.y = 0;
         controller.Move(moveVector * Time.deltaTime * speedTr);
 
         yaw += speedH * Input.GetAxis("Mouse X");
         pitch -= speedV * Input.GetAxis("Mouse Y");
-        if (pitch < 0.0f)
-            pitch = 0;
+        if (pitch < -45.0f)
+            pitch = -45;
         if (pitch > 90.0f)
             pitch = 90;
+        
         transform.eulerAngles = new Vector3(pitch, yaw, 0.0f);
 
     }

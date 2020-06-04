@@ -12,7 +12,8 @@ public class Stages : MonoBehaviour
     {
         stage1List.AddRange(GameObject.FindGameObjectsWithTag("Stage_1"));
         stage2List.AddRange(GameObject.FindGameObjectsWithTag("Stage_2"));
-       // stage3List.AddRange(GameObject.FindGameObjectsWithTag("Stage_3"));
+        stage3List.AddRange(GameObject.FindGameObjectsWithTag("Stage_3"));
+        stage1();
     }
 
     // Update is called once per frame
@@ -38,10 +39,7 @@ public class Stages : MonoBehaviour
         {
             item.SetActive(false);
         }
-        foreach (GameObject item in stage3List)
-        {
-            item.SetActive(false);
-        }
+        
     }
     void stage2()
     {
@@ -66,7 +64,7 @@ public class Stages : MonoBehaviour
         }
         foreach (GameObject item in stage2List)
         {
-            item.SetActive(false);
+            item.SetActive(true);
         }
         foreach (GameObject item in stage1List)
         {

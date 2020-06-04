@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 7e4024464a7f63a408ac3c1225f094f9, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -1139,7 +1139,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0.54901963, g: 0.54901963, b: 0.54901963, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -1153,7 +1153,7 @@ Camera:
     width: 1
     height: 1
   near clip plane: 1
-  far clip plane: 2048
+  far clip plane: 4096
   field of view: 80
   orthographic: 0
   orthographic size: 5
@@ -1179,13 +1179,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1923799515}
-  m_LocalRotation: {x: 0.3196209, y: 0, z: 0, w: 0.9475455}
+  m_LocalRotation: {x: -0.12182751, y: -0.025981806, z: -0.0031901626, w: 0.9922061}
   m_LocalPosition: {x: 2143, y: 400, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 37.28, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: -14, y: -3, z: 0}
 --- !u!114 &1923799519
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1305,6 +1305,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: 2_4_stage2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3437940976234455412, guid: 01c8be9bd16c673469e588586196acf5,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3697106818594095631, guid: 01c8be9bd16c673469e588586196acf5,
         type: 3}
@@ -2370,6 +2375,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: 2_4_stage3(UnderTerrain)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1246834425235684555, guid: 949da9d13bbd75b4c8753ae74b084cdd,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 949da9d13bbd75b4c8753ae74b084cdd, type: 3}
