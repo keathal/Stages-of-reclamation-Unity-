@@ -19,6 +19,7 @@ public class CameraScript : MonoBehaviour
     void Start()
     {
         controller = gameObject.GetComponent<CharacterController>();
+        Cursor.visible = false;
     }
 
     // Update is called once per frame
